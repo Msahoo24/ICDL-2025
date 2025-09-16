@@ -1,0 +1,7 @@
+[1] Lansink, J. M., & Richards, J. E. (1997). Child Development, 68(4), 610-620. 
+[2] Grossman, P., & Taylor, E. W. (2007). Biological psychology, 74(2), 263-285. 
+[3] Welsh, J. A., Nix, R. L., Blair, C., Bierman, K. L., & Nelson, K. E. (2010). Journal of educational psychology, 102(1), 43. 
+[4] Richards, J. E., & Casey, B. J. (1991). Psychophysiology, 28(1), 43-53. 
+[5] Pasquini, L., Noohi, F., Veziris, C. R., Kosik, E. L., Holley, S. R., Lee, A., ... & Sturm, V. E. (2023). Psychophysiology, 60(4), e14218. 
+[6] Sahoo, M., Borjon, I.J. (2025). GitHub. https://github.com/borjonlab/tonaflow 
+[7] Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). Behavior Research Methods, 53(4), 1689-1696.  

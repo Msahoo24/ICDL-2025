@@ -5,3 +5,4 @@
 [5] Pasquini, L., Noohi, F., Veziris, C. R., Kosik, E. L., Holley, S. R., Lee, A., ... & Sturm, V. E. (2023). Psychophysiology, 60(4), e14218. 
 [6] Sahoo, M., Borjon, I.J. (2025). GitHub. https://github.com/borjonlab/tonaflow 
 [7] Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). Behavior Research Methods, 53(4), 1689-1696.  
+[8] Borjon, J. I., Abney, D. H., Yu, C., & Smith, L. B. (2021). Head and eyes: Looking behavior in 12-to 24-month-old infants. Journal of vision, 21(8), 18-18.
